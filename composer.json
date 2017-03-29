@@ -1,0 +1,14 @@
+{
+    "name": "mirec/json_rpc",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^6.0"
+    },
+    "authors": [
+        {
+            "name": "chovajsa",
+            "email": "kanovskym@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
